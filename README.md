@@ -5,3 +5,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yapcona&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yapcona&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
